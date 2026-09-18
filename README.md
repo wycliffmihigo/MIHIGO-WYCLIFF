@@ -1,6 +1,6 @@
-## 👋 Hey, I'm Wycliff!/>
+## 👋 Hey, I'm Wycliff!
 
-🎓 **IT Student & Tech Enthusiast**/>
+🎓 **IT Student & Tech Enthusiast**
 
 I'm currently pursuing my degree in Information Technology, passionate about building cool software, understanding complex networks, and solving real-world tech problems.
 
